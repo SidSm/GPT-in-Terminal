@@ -1,0 +1,1 @@
+Example analytical solution for Poiseuille flow: u(y) = (1/(2*mu)) * (dp/dx) * (h^2 - y^2)
